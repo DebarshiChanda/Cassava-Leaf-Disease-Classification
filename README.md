@@ -1,4 +1,7 @@
-# Cassava-Leaf-Disease-Classification
+<!-- # Cassava-Leaf-Disease-Classification -->
+<h1 align="center"> Cassava Leaf Disease Classification </h1>
+
+![](banner.png)
 
 ## Published Kernels
 - [SeResNeXt50 But with Attention](https://www.kaggle.com/debarshichanda/seresnext50-but-with-attention)
