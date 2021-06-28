@@ -7,6 +7,11 @@
 - Cassava: BiTempered Logistic Loss [![Open In Kaggle](https://img.shields.io/badge/k-Open%20in%20Kaggle-blue)](https://www.kaggle.com/debarshichanda/cassava-bitempered-logistic-loss)
 - GradCAM: Visualize your CNN [![Open In Kaggle](https://img.shields.io/badge/k-Open%20in%20Kaggle-blue)](https://www.kaggle.com/debarshichanda/gradcam-visualize-your-cnn)
 
+## Published Discussions
+- Mixed Precision Training [![Open In Kaggle](https://img.shields.io/badge/k-Open%20in%20Kaggle-blue)](https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/199631)
+- How to keep track of Experiments? [![Open In Kaggle](https://img.shields.io/badge/k-Open%20in%20Kaggle-blue)](https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/201025)
+- New Optimizers? [![Open In Kaggle](https://img.shields.io/badge/k-Open%20in%20Kaggle-blue)](https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/207290)
+
 ## Overview
 As the second-largest provider of carbohydrates in Africa, cassava is a key food security crop grown by smallholder farmers because it can withstand harsh conditions. At least 80% of household farms in Sub-Saharan Africa grow this starchy root, but viral diseases are major sources of poor yields. With the help of data science, it may be possible to identify common diseases so they can be treated.
 
